@@ -75,3 +75,4 @@ sleep 3
 help
 help while
 ./countdown.sh 1
+./countdown.sh 5
