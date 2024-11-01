@@ -22,3 +22,4 @@ man echo
 s
 touch countdown.sh
 ./countdown.sh
+ss
