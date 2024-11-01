@@ -21,3 +21,4 @@ man echo
 ./questionnaire.sh
 s
 touch countdown.sh
+./countdown.sh
