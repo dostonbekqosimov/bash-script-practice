@@ -392,3 +392,6 @@ __vsc_prompt_cmd_original
 ./five.sh
 chmod +x questionnaire.sh
 ./five.sh
+chmod +x countdown.sh
+chmod +x questionnaire.sh countdown.sh bingo.sh fortune.sh five.sh
+ls --color=auto -l
