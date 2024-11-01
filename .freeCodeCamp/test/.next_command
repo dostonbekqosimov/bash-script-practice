@@ -160,3 +160,6 @@ help let
 (( I+=10))
 echo $I
 $((I+4))
+165
+__vsc_prompt_cmd_original
+echo $((I+4))
