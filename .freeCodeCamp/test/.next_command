@@ -52,3 +52,4 @@ ls --color=auto -y
 help test
 clear
 [[ -a countdown.sh ]]
+[[ -x countdown.sh ]]
