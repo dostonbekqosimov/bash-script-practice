@@ -376,3 +376,4 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+git add .
