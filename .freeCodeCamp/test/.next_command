@@ -53,3 +53,4 @@ help test
 clear
 [[ -a countdown.sh ]]
 [[ -x countdown.sh ]]
+help [[ expression ]]
