@@ -139,3 +139,5 @@ ssh -T git@github.com
 git push -u orig2in main
 clear
 printenv
+echo LANG
+echo $LANG
