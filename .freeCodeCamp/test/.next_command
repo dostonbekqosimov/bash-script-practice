@@ -163,3 +163,4 @@ $((I+4))
 165
 __vsc_prompt_cmd_original
 echo $((I+4))
+echo $I
