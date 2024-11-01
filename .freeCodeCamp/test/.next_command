@@ -34,3 +34,4 @@ kd
 ./countdown.sh arg arg2 arg3
 ./countdown.sh arg arg2 arg3
 ./countdown.sh 4
+./countdown.sh 5
