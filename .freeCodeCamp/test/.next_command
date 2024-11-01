@@ -395,3 +395,4 @@ chmod +x questionnaire.sh
 chmod +x countdown.sh
 chmod +x questionnaire.sh countdown.sh bingo.sh fortune.sh five.sh
 ls --color=auto -l
+clear
