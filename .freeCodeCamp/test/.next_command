@@ -24,3 +24,4 @@ touch countdown.sh
 ./countdown.sh
 ss
 dsds
+./countdown.sh arg1 arg2 arg3
