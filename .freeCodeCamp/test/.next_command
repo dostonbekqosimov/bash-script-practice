@@ -398,3 +398,4 @@ ls --color=auto -l
 clear
 ./f
 ./five.sh
+git add .
