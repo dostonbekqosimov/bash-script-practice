@@ -346,3 +346,9 @@ help function
 ./fortune.sh
 ./fortune.sh
 git add .
+git commit -m "Add bingo.sh and fortune.sh "
+git add remote ori https://github.com/dostonbekqosimov/bash-script-practice.git
+git remote add origin3 https://github.com/dostonbekqosimov/bash-script-practice.git
+git push origin3 main
+./fortune.sh
+help
