@@ -274,3 +274,8 @@ J=8
 declare -p J
 declare -p RANDOM
 echo $((RANDOM%75))
+RANDOM
+echo RANDOM
+__vsc_prompt_cmd_original
+echo $((RANDOM))
+echo $((RANDOM%75+1))
