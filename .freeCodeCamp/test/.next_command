@@ -377,3 +377,11 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 git add .
+git commit
+git push remote origin3
+git remote -v
+git history
+git push remote origin3
+git push origin3 main
+clear
+touch five.sh

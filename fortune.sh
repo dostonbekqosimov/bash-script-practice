@@ -26,3 +26,4 @@ N=$(( RANDOM % ${#RESPONSES[@]} ))
 
 # Print the selected fortune with an empty line before
 echo -e "\n${RESPONSES[$N]}"
+g
