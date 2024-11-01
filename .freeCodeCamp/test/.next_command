@@ -43,3 +43,4 @@ hf
 echo$?
 echo $?
 echo $?
+[200~[[ 4 -ge 5 ]]
