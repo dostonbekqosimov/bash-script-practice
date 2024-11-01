@@ -66,3 +66,5 @@ clear
 help
 ls --color=auto /
 ls --color=auto /bin
+man /bin/sleep
+man sleep
