@@ -319,3 +319,12 @@ echo ${ARR}
 echo ${ARR[1]}
 echo ${ARR[*]}
 declare -p ARR
+echo
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./fortune.sh
