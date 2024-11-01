@@ -273,3 +273,4 @@ declare -p J
 J=8
 declare -p J
 declare -p RANDOM
+echo $((RANDOM%75))
