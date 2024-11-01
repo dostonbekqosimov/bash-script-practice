@@ -385,3 +385,5 @@ git push remote origin3
 git push origin3 main
 clear
 touch five.sh
+chmod +x f
+chmod +x five.sh
