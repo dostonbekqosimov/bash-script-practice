@@ -30,3 +30,4 @@ chmod +x countdown.sh
 dd
 md
 kd
+./countdown.sh arg1 arg2 arg3
