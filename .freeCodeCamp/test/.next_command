@@ -41,3 +41,4 @@ hf
 hf
 ./countdown.sh [[ 4 -le 5 ]]
 echo$?
+echo $?
