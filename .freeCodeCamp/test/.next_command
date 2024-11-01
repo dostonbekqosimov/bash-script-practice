@@ -372,3 +372,4 @@ echo $VAR
 [[ test? =~ \?$ ]]
 ./fo
 ./fortune.sh
+./fortune.sh
