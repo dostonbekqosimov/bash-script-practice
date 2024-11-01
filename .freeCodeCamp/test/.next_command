@@ -352,3 +352,4 @@ git remote add origin3 https://github.com/dostonbekqosimov/bash-script-practice.
 git push origin3 main
 ./fortune.sh
 help
+help until
