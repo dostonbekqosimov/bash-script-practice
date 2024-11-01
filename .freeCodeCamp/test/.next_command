@@ -391,3 +391,4 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 ./five.sh
 chmod +x questionnaire.sh
+./five.sh
