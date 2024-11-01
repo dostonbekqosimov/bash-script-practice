@@ -58,3 +58,4 @@ help [[ expression ]]
 [[ -x countdown.sh || 5 -le 4 ]]
 ss
 clear
+./countdown.sh 1
