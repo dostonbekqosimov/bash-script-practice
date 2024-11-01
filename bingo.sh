@@ -18,4 +18,6 @@ then
 elif [[ $NUMBER -lt 61 ]]
 then
   echo $TEXT G:$NUMBER
+else 
+  echo $TEXT O:$NUMBER
 fi
