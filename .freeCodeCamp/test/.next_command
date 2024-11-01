@@ -61,3 +61,5 @@ clear
 ./countdown.sh 1
 ./countdown.sh -3
 help
+clear
+./countdown.sh 10
