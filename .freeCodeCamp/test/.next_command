@@ -150,3 +150,7 @@ echo $RANDOM
 ./bingo.sh
 ./bingo.sh
 I=0
+echo $?
+echo
+echo bingo.sh countdown.sh questionnaire.sh README.md
+echo $I
