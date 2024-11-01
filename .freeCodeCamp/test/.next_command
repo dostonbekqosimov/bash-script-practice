@@ -77,3 +77,8 @@ help while
 ./countdown.sh 1
 ./countdown.sh 5
 touch bingo.sh
+git remote add orig2in git@github.com:dostonbekqosimov/bash-script-practice.git
+git remot -v
+git remote -v
+touch README.md
+git add .
