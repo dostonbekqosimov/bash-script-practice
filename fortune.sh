@@ -9,11 +9,7 @@ echo "Ask a yes or no question:"
 read QUESTION
 }
 
-GET_FORTUNE
-
-  while [[ $N -ge 0 ]]
+  until [[ $QUESTION == test? ]]
   do
-    echo $N
-    ((N++))
-    sleep 3
+   GET_FORTUNE
   done
